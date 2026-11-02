@@ -1,0 +1,10 @@
+{
+ "events": 52961,
+ "simulate_s": 0.07882295898161829,
+ "loglik_ms": 1.7830366600537673,
+ "loglik_events_per_s": 29702698.316030677,
+ "fit_s": 0.15273016699939035,
+ "fit_iterations": 44,
+ "fit_with_hessian_s": 0.32308995799394324,
+ "params": 36
+}
